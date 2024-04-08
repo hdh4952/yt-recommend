@@ -88,7 +88,7 @@ const App = () => {
     const result = await fetch(
       `https://www.googleapis.com/youtube/v3/search?key=${API_KEY}&part=snippet&q=${encodeURIComponent(
         question
-      )}&type=video&maxResults=5`
+      )}&type=video&maxResults=100`
     );
     const json = await result.json();
     // const json = mock;
