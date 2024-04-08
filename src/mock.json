@@ -1,0 +1,182 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "3OZHOwDj_YybNN503MpCEkp92CY",
+  "nextPageToken": "CAUQAA",
+  "regionCode": "KR",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Jz2duiuR3mMAnOxGYOwTNQDZxJg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "YYRfCu7jxAI"
+      },
+      "snippet": {
+        "publishedAt": "2024-04-07T03:52:08Z",
+        "channelId": "UCUbOogiD-4PKDqaJfSOTC0g",
+        "title": "8년 경력의 챌린저 카시오페아 장인의 궁극기 무조건 맞추는 방법 ㅁㅊ.. 조관우 장인초대석 [테스터훈]",
+        "description": "채널에 가입하여 멤버십 혜택을 누려보세요. https://www.youtube.com/channel/UCUbOogiD-4PKDqaJfSOTC0g/join 테스터훈 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/YYRfCu7jxAI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/YYRfCu7jxAI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/YYRfCu7jxAI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "테스터훈 TesterHoon",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-04-07T03:52:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "I6_7sho54QXRNiLgD7GSxIrvcKc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bQ6EXdrXgBQ"
+      },
+      "snippet": {
+        "publishedAt": "2024-04-07T13:06:10Z",
+        "channelId": "UC-8S20Ll1gzPiu_YY8BgyaQ",
+        "title": "이걸로 챌린저를 찍었다고? 월식-갈하 &quot;AD아칼리&quot;",
+        "description": "저는 챌린저 렝가장인 캐인 이라고 합니다 ✓캐인 전적보기 https://www.deeplol.gg/strm/%EC%BA%90%EC%9D%B8 0:00 인트로 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bQ6EXdrXgBQ/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bQ6EXdrXgBQ/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bQ6EXdrXgBQ/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "캐인유튜브",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-04-07T13:06:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "wBWTOZrwjbh5hidukIw2B82addM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tPhQDhhZ-AE"
+      },
+      "snippet": {
+        "publishedAt": "2024-03-28T07:00:24Z",
+        "channelId": "UC0wo7SwsC5dE0nSgBs2M-3A",
+        "title": "소년만화 60초 요약",
+        "description": "징중부 #롤.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tPhQDhhZ-AE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tPhQDhhZ-AE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tPhQDhhZ-AE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "징중부",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-03-28T07:00:24Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "j5OTngqxIRvUXXIUTwM8dXDsOzw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "FhcxEM9kW14"
+      },
+      "snippet": {
+        "publishedAt": "2024-04-07T01:51:06Z",
+        "channelId": "UCIBoeAMqlic3emU6_crV9Vw",
+        "title": "유튜브 최초 헬문철. 헬퍼다 VS 피지컬이다  [헬문철 1화]",
+        "description": "개인팟 #롤 #헬퍼 #제보 #관전 #제라스 #xerath #script 신청자들에게 지나친 비난 및 비하 발언은 삼가 부탁드립니다. 댓글 내용에 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/FhcxEM9kW14/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/FhcxEM9kW14/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/FhcxEM9kW14/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "개인팟",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-04-07T01:51:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "6iiN0KSZzCX7x44_AzBg5qd49CA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WY0BJXSx0c8"
+      },
+      "snippet": {
+        "publishedAt": "2024-04-06T08:16:04Z",
+        "channelId": "UCVmz2Fi5vxHJMovZGA9URLg",
+        "title": "롤 탑으로 쓰면 날먹이라 결국 스카너를 핫픽스 패치 한 라이엇 ㅋㅋ",
+        "description": "양순옥의 과학교실 참고 사이트 딥롤 챔피언 분석 : https://www.deeplol.gg/champions #롤 #리그오브레전드 #leagueoflegends.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WY0BJXSx0c8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WY0BJXSx0c8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WY0BJXSx0c8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "양순옥의 과학교실",
+        "liveBroadcastContent": "none",
+        "publishTime": "2024-04-06T08:16:04Z"
+      }
+    }
+  ]
+}
